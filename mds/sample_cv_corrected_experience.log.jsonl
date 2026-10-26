@@ -1,0 +1,10 @@
+{"stage": "line", "prob": 0.9008, "passed": true, "line": 9, "path": ["JANE DOE", "PROFESSIONAL SUMMARY"], "text": "Software engineer with 9+ years of experience building backend services and data pipelines in Python and Java."}
+{"stage": "line", "prob": 0.9241, "passed": true, "line": 15, "path": ["JANE DOE", "WORK EXPERIENCE", "Example Corp, Sampletown | JAN 2021 - Present"], "text": "Senior Software Engineer"}
+{"stage": "line", "prob": 0.4843, "passed": false, "line": 17, "path": ["JANE DOE", "WORK EXPERIENCE", "Example Corp, Sampletown | JAN 2021 - Present"], "text": "Led a team of five building an order-processing platform."}
+{"stage": "line", "prob": 0.229, "passed": false, "line": 19, "path": ["JANE DOE", "WORK EXPERIENCE", "Example Corp, Sampletown | JAN 2021 - Present"], "text": "- Reduced API latency by 40%."}
+{"stage": "line", "prob": 0.9325, "passed": true, "line": 23, "path": ["JANE DOE", "WORK EXPERIENCE", "Sample Systems Ltd | MAR 2017 - DEC 2020"], "text": "Software Engineer"}
+{"stage": "line", "prob": 0.3143, "passed": false, "line": 25, "path": ["JANE DOE", "WORK EXPERIENCE", "Sample Systems Ltd | MAR 2017 - DEC 2020"], "text": "- Built ETL pipelines for reporting."}
+{"stage": "line", "prob": 0.7557, "passed": true, "line": 29, "path": ["JANE DOE", "WORK EXPERIENCE", "Placeholder Labs | JUN 2015 - FEB 2017"], "text": "Junior Developer"}
+{"stage": "line", "prob": 0.4921, "passed": false, "line": 31, "path": ["JANE DOE", "WORK EXPERIENCE", "Placeholder Labs | JUN 2015 - FEB 2017"], "text": "- Maintained internal web tools."}
+{"stage": "line", "prob": 0.5029, "passed": true, "line": 33, "path": ["JANE DOE", "WORK EXPERIENCE", "Placeholder Labs | JUN 2015 - FEB 2017"], "text": "Demo Software | JUL 2014 - AUG 2014 (2 months)"}
+{"stage": "line", "prob": 0.7745, "passed": true, "line": 35, "path": ["JANE DOE", "WORK EXPERIENCE", "Placeholder Labs | JUN 2015 - FEB 2017"], "text": "Software Intern"}

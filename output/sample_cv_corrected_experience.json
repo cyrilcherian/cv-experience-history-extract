@@ -1,0 +1,46 @@
+[
+  {
+    "line_no": 13,
+    "context_path": [
+      "JANE DOE",
+      "WORK EXPERIENCE",
+      "Example Corp, Sampletown | JAN 2021 - Present"
+    ],
+    "raw_text": "Example Corp, Sampletown | JAN 2021 - Present",
+    "start_date": "JAN 2021",
+    "end_date": "Present"
+  },
+  {
+    "line_no": 21,
+    "context_path": [
+      "JANE DOE",
+      "WORK EXPERIENCE",
+      "Sample Systems Ltd | MAR 2017 - DEC 2020"
+    ],
+    "raw_text": "Sample Systems Ltd | MAR 2017 - DEC 2020",
+    "start_date": "MAR 2017",
+    "end_date": "DEC 2020"
+  },
+  {
+    "line_no": 27,
+    "context_path": [
+      "JANE DOE",
+      "WORK EXPERIENCE",
+      "Placeholder Labs | JUN 2015 - FEB 2017"
+    ],
+    "raw_text": "Placeholder Labs | JUN 2015 - FEB 2017",
+    "start_date": "JUN 2015",
+    "end_date": "FEB 2017"
+  },
+  {
+    "line_no": 33,
+    "context_path": [
+      "JANE DOE",
+      "WORK EXPERIENCE",
+      "Placeholder Labs | JUN 2015 - FEB 2017"
+    ],
+    "raw_text": "Demo Software | JUL 2014 - AUG 2014 (2 months)",
+    "start_date": "JUL 2014",
+    "end_date": "AUG 2014"
+  }
+]
