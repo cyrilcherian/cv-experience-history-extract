@@ -107,9 +107,9 @@ Results are in `output/<name>_corrected_experience.json`:
 [
   {
     "line_no": 53,
-    "context_path": ["DON C JOHN", "EXPERIENCE / INTERNSHIP"],
-    "raw_text": "- QBurst, Infopark Koratty | SEPT 2021 - Present Software Engineer",
-    "start_date": "SEPT 2021",
+    "context_path": ["Foo Bar", "EXPERIENCE / INTERNSHIP"],
+    "raw_text": "- QBurst, Infopark Koratty | SEPT 2020 - Present Software Engineer",
+    "start_date": "SEPT 2020",
     "end_date": "Present"
   }
 ]
